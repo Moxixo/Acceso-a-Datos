@@ -22,7 +22,7 @@ public class Ejer_2_4 {
         } while (!frase.equals("fin"));
 
         bw.close();
-0
+
         while(br.read() != -1){
 
             System.out.println(br.readLine());
